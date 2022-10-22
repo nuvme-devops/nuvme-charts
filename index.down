@@ -1,0 +1,52 @@
+apiVersion: v1
+entries:
+  timescaledb-single:
+  - apiVersion: v1
+    created: "2022-10-21T18:56:34.684444683Z"
+    description: TimescaleDB HA Deployment.
+    digest: 657bc4e08c9ad3c0b5b7ac0723e3364d66cbc978a955787eaa3cb8727f4cc8be
+    home: https://github.com/nuvme-devops/helm-charts-ipv6
+    maintainers:
+    - email: support@timescale.com
+      name: TimescaleDB
+    name: timescaledb-single
+    sources:
+    - https://github.com/timescale/helm-charts
+    - https://github.com/timescale/timescaledb-docker-ha
+    - https://github.com/zalando/patroni
+    urls:
+    - https://github.com/nuvme-devops/helm-charts-ipv6/releases/download/timescaledb-single-0.20.5/timescaledb-single-0.20.5.tgz
+    version: 0.20.5
+  - apiVersion: v1
+    created: "2022-10-21T18:44:13.857127852Z"
+    description: TimescaleDB HA Deployment.
+    digest: 5862869c1d260797f7f70a2ffa000d2de771b3425afaa93db74f7fd3134af135
+    home: https://github.com/nuvme-devops/helm-charts-ipv6
+    maintainers:
+    - email: support@timescale.com
+      name: TimescaleDB
+    name: timescaledb-single
+    sources:
+    - https://github.com/timescale/helm-charts
+    - https://github.com/timescale/timescaledb-docker-ha
+    - https://github.com/zalando/patroni
+    urls:
+    - https://github.com/nuvme-devops/helm-charts-ipv6/releases/download/timescaledb-single-0.20.3/timescaledb-single-0.20.3.tgz
+    version: 0.20.3
+  - apiVersion: v1
+    created: "2022-10-21T17:50:03.646273211Z"
+    description: TimescaleDB HA Deployment.
+    digest: e3fe212929a926608306b2027cd38f595ed091a428cde3b8c417053f6e40a9c5
+    home: https://github.com/nuvme-devops/helm-charts-ipv6
+    maintainers:
+    - email: support@timescale.com
+      name: TimescaleDB
+    name: timescaledb-single
+    sources:
+    - https://github.com/timescale/helm-charts
+    - https://github.com/timescale/timescaledb-docker-ha
+    - https://github.com/zalando/patroni
+    urls:
+    - https://github.com/nuvme-devops/helm-charts-ipv6/releases/download/timescaledb-single-0.20.2/timescaledb-single-0.20.2.tgz
+    version: 0.20.2
+generated: "2022-10-21T17:50:03.36100734Z"
